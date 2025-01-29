@@ -1,12 +1,10 @@
 prepare
 fix the sink
-clean
-eat
-clean the carMake Soup.
-Make pizza
-sup
+Make pizzasup
 new order
-Clean
-eat
+eateat
 sleep
 Work
+example
+example
+Eat
