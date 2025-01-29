@@ -6,3 +6,7 @@ clean the carMake Soup.
 Make pizza
 sup
 new order
+Clean
+eat
+sleep
+Work
