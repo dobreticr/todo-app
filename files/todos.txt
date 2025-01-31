@@ -1,8 +1,5 @@
 prepare
 fix the sink
-Make pizzasup
-new order
-eateat
 sleep
 Work
 example
